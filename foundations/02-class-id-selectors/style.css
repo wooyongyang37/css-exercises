@@ -4,14 +4,13 @@
     color: rgb(0, 0, 0);
 }
 
+.adjust-font-size{
+    font-size: 24px;
+}
 
 #Number-2{
 color: rgb(77, 165, 232);
 font-size: 36px;
-}
-
-.adjust-font-size{
-    font-size: 24px;
 }
 
 #Number-4{
