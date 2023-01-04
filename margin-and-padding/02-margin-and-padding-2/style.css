@@ -7,26 +7,22 @@ body {
   width: 400px;
   background: #fff;
   margin: 16px auto;
+  border: 8px solid red;
   
 }
 
 .title {
   background: #e3f4ff;
-  border: 8px;
-  border-color: white;
+  margin-top: 0px;
 }
 
 .content {
   background: #e3f4ff;
-  border: 8px;
-  border-color: white;
-  margin: 20px;
+  border: 8px solid white;
 }
 
 .button-container {
   background: #e3f4ff;
-  border: 8px;
-  border-color: white;
 }
 
 button {
