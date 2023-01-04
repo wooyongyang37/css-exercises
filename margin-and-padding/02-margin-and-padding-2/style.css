@@ -21,7 +21,10 @@ body {
 
 .content {
   background: #e3f4ff;
-  padding: 4px;
+  padding-top: 16px;
+  padding-bottom: 8px;
+  padding-left: 8px;
+  padding-top: 8px;
   border-bottom: 8px solid white;
   border-top: 8px solid white;
 }
