@@ -18,7 +18,8 @@ body {
 
 .content {
   background: #e3f4ff;
-  border: 8px solid white;
+  border-bottom: 8px solid white;
+  border-top: 8px solid white;
 }
 
 .button-container {
