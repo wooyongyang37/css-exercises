@@ -14,12 +14,13 @@ body {
 .title {
   background: #e3f4ff;
   margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 .content {
   background: #e3f4ff;
-  border-bottom: 8px solid white;
-  border-top: 8px solid white;
+  border-bottom: 8px solid blue;
+  border-top: 8px solid blue;
 }
 
 .button-container {
