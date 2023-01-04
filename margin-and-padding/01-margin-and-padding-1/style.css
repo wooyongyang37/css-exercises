@@ -15,7 +15,7 @@ body {
   background: lightblue;
   border: 3px solid purple;
   /* CHANGE ME */
-  margin-bottom: 0px;
+  margin-bottom: 48px;
 }
 
 .three {
@@ -25,5 +25,5 @@ body {
   /* CHANGE ME */
   padding: 0px;
   margin: 30px;
-  margin-left: 0px;
+  margin-left: 410px;
 }
