@@ -11,6 +11,7 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
+  
   margin-top: 10px;
   margin-bottom: 10px;
 }
@@ -18,7 +19,8 @@
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
-  display: inline-flex;
+  margin-top: 30px;
+
   
 }
 
@@ -28,5 +30,6 @@ a {
   padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
-  margin: 10px;
+  margin: 5px;
+
 }
