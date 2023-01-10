@@ -1,7 +1,6 @@
 .header  {
   font-family: monospace;
   background: papayawhip;
-  display: flex;
   justify-content: space-between;
 }
 
@@ -32,4 +31,5 @@ a {
   text-decoration: none;
   margin: 5px;
 
+  display: flex;
 }
