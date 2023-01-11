@@ -17,6 +17,8 @@ body {
 
   display: flex;
   
+
+  /*justify-content: space-between;*/
 }
 
 .profile-image {
@@ -56,4 +58,6 @@ a {
 
 ul {
   list-style-type: none;
+
+  display: flex;
 }
