@@ -16,9 +16,13 @@ body {
   box-shadow: 0 0 8px rgba(0,0,0,.1);
   /**/
   display: flex;
-  /*centers items in white header*/
+  /* Create display container*/
   align-items: center;  
-  justify-content: space-between;
+  /* Vertical center */
+  justify-content: space-between; 
+  /*Create seperation between left and right container*/
+  padding: 8px;
+  /*8px space between everything and the edge of the header*/
 }
 
 .profile-image {
