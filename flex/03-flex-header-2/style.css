@@ -69,10 +69,7 @@ ul {
   margin-left: -30px;
 }
 
-.left{
+.left .right{
   display: flex;
 }
 
-.right{
-  display: flex;
-}
