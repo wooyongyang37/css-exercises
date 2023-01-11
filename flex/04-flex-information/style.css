@@ -5,7 +5,11 @@ body {
 
 .image{
   display: flex;
-  
+  /**/
+}
+
+.text{
+  display: flex;
 }
 
 img {
