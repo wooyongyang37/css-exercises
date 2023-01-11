@@ -66,6 +66,7 @@ ul {
   list-style-type: none;
   /**/
   display: flex;
+  margin-left: -30px;
 }
 
 .left{
