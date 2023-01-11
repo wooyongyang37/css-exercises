@@ -10,7 +10,6 @@ body {
   
   justify-content: center;
   padding-top: 32px;
-  
 }
 
 .text{
@@ -22,6 +21,8 @@ img {
   width: 100px;
   height: 100px;
   /**/
+  padding-left: 52px;
+  padding-right: 52px;
 }
 
 .title {
