@@ -14,8 +14,7 @@ body {
 
 .text{
   display: flex;
-  content: 200px;
-  text-align: center;
+  justify-content: center;
 }
 
 img {
