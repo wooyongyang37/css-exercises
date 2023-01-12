@@ -12,9 +12,17 @@ body {
   padding-top: 32px;
 }
 
-.text{
+.textBox{
   display: flex;
   justify-content: center;
+}
+
+.text{
+  display: flex;
+  text-align: center;
+  content: 200px;
+  padding-left: 52px;
+  padding-right: 52px;
 }
 
 img {
