@@ -20,9 +20,9 @@ body {
 .text{
   display: flex;
   text-align: center;
-  content: 200px;
-  padding-left: 26px;
-  padding-right: 26px;
+  content: 100px;
+  padding-left: 52px;
+  padding-right: 52px;
 }
 
 img {
