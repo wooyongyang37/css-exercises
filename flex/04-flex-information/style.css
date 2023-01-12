@@ -1,8 +1,7 @@
 body {
   font-family: 'Courier New', Courier, monospace;
   /**/
-  display: flex;
-  flex-direction: column;
+  text-align: center;
 }
 
 .image{
@@ -33,6 +32,8 @@ img {
   /**/
   padding-left: 52px;
   padding-right: 52px;
+  display: flex;
+  align-items: center;
 }
 
 .title {
