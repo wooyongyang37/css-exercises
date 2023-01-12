@@ -3,10 +3,8 @@ body {
   text-align: center;
 }
 
-.image{
+.container{
   display: flex;
-  /**/
-  
   justify-content: center;
   padding-top: 32px;
 }
@@ -17,7 +15,7 @@ img {
   /**/
   padding-left: 52px;
   padding-right: 52px;
-
+  max-width: 200px;
 }
 
 .title {
