@@ -1,6 +1,7 @@
 body {
   font-family: 'Courier New', Courier, monospace;
   /**/
+  display: flex;
   
 }
 
@@ -19,8 +20,9 @@ body {
 
 .text{
   display: flex;
+  flex: 0 1 1;
   text-align: center;
-  content: 100px;
+  content: 50px;
   padding-left: 52px;
   padding-right: 52px;
 }
