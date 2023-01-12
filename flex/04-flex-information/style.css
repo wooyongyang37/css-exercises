@@ -18,6 +18,10 @@ img {
   padding-right: 52px;
 }
 
+.box{
+  max-width: 200px;
+}
+
 .title {
   font-size: 36px;
   font-weight: 900;
