@@ -23,6 +23,11 @@ body {
   justify-content: space-between;
 }
 
+.left-links,.right-links{
+  display: flex;
+  gap: 15px;
+}
+
 img {
   width: 600px;
 }
