@@ -28,9 +28,9 @@ img {
 
 .container{
   display: flex;
+  justify-content: center;
 }
 
 .box{
-  display: flex;
   gap: 32px;
 }
