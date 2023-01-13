@@ -32,6 +32,8 @@ body {
   display: flex;
   gap: 15px;
   list-style-type: none;
+  padding: 8px;
+  margin: 8px;
 }
 
 img {
