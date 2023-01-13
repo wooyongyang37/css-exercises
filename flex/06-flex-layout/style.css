@@ -36,6 +36,11 @@ body {
   margin: 8px;
 }
 
+a{
+  text-decoration: none;
+  color: #666;
+}
+
 img {
   width: 600px;
 }
