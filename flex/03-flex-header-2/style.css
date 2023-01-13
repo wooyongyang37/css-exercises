@@ -6,23 +6,21 @@ body {
   margin: 0;
   background: #eee;
   font-family: Besley, serif;
-  /**/
-
 }
 
 .header {
   background: white;
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
-  /**/
   display: flex;
-  /* Create display container*/
-  align-items: center;  
-  /* Vertical center */
-  justify-content: space-between; 
-  /*Create seperation between left and right container*/
+  justify-content: space-between;
+  align-items: center;
   padding: 8px;
-  /*8px space between everything and the edge of the header*/
+}
+
+.left, .right{
+  display: flex;
+  gap: 16px;
 }
 
 .profile-image {
@@ -30,9 +28,7 @@ body {
   box-shadow: inset 2px 2px 4px rgba(0,0,0,.5);
   border-radius: 50%;
   width: 48px;
-  height: 48px;
-  /**/
-  
+  height:  48px;
 }
 
 .logo {
@@ -40,8 +36,6 @@ body {
   font-size: 32px;
   font-weight: 900;
   font-style: italic;
-  /**/
-
 }
 
 button {
@@ -50,29 +44,16 @@ button {
   background: rebeccapurple;
   color: white;
   padding: 8px 24px;
-  /**/
-  margin-right: 16px;
 }
 
 a {
   /* this removes the line under our links */
   text-decoration: none;
   color: rebeccapurple;
-  /**/
-  margin: 8px;
 }
 
 ul {
   list-style-type: none;
-  /**/
   display: flex;
-  margin-left: -30px;
-}
-
-.left{
-  display: flex;
-}
-
-.right{
-  display: flex;
+  gap: 16px;
 }
