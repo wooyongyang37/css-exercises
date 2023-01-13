@@ -29,3 +29,8 @@ img {
 .container{
   display: flex;
 }
+
+.box{
+  display: flex;
+  gap: 32px;
+}
