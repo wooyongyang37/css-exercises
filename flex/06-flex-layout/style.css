@@ -25,6 +25,7 @@ body {
 .footer{
   display: flex;
   justify-content: space-between;
+  background-color: #eeee;
 }
 
 .left-links,.right-links{
