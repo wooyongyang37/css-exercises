@@ -18,6 +18,11 @@ body {
   align-items: center;
 }
 
+.footer{
+  display: flex;
+  justify-content: space-between;
+}
+
 img {
   width: 600px;
 }
