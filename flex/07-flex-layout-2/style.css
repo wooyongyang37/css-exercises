@@ -26,6 +26,11 @@ body {
   justify-content: center;
 }
 
+.textSpace{
+  display: flex;
+  align-items: center;
+}
+
 .sidebar {
   width: 300px;
   background: royalblue;
