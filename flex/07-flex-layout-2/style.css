@@ -42,4 +42,5 @@ body {
 
 .midBox{
   display: flex;
+  flex: auto;
 }
